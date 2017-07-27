@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Instagram.iml" filepath="$PROJECT_DIR$/.idea/Instagram.iml" />
+      <module fileurl="file://C:\Users\USER\RubymineProjects\Instagram\.idea\Instagram.iml" filepath="C:\Users\USER\RubymineProjects\Instagram\.idea\Instagram.iml" />
     </modules>
   </component>
 </project>
